@@ -44,6 +44,9 @@
                 <SkipUserOOBE>true</SkipUserOOBE>
                 <HideOEMRegistrationScreen>true</HideOEMRegistrationScreen>
             </OOBE>
+            <TaskbarLinks>
+				<Link0>%AppData%\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk</Link0>
+			</TaskbarLinks>
             <RegisteredOrganization>Organization</RegisteredOrganization>
             <RegisteredOwner>User</RegisteredOwner>
             <FirstLogonCommands>
